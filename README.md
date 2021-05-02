@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vinay22ji
-- 👀 I’m Working as a Android developer
+- 👀 I’m Working as a Android developer at Edufundae Ventures
 - 🌱 I’m currently learning ios development and flutter
 - 💞️ Currently Available for Freelance Projects 
 - 📫 How to reach me email= vinay22ji2@gmail.com
